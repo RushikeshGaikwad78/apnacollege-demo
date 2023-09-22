@@ -1,3 +1,3 @@
 # apnacollege-demo
 Basic <br>
-Author-Rushi
+Author-Rushi (smart boy)
